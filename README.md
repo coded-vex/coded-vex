@@ -27,7 +27,7 @@
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Dino Nuggs** | First iteration of a dino themed fetal tracking site showing growth and development of baby, plus additional information. | `HTML` `CSS` `JavaScript` | [Repo]([https://github.com/](https://github.com/coded-vex/dino_nuggs/tree/main)) • [Demo]((https://dinonuggs.vercel.app)) |
+| **Dino Nuggs** | First iteration of a dino themed fetal tracking site showing growth and development of baby, plus additional information. | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/coded-vex/dino_nuggs/tree/main) • [Demo](https://dinonuggs.vercel.app)
 
 
 ---
